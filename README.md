@@ -91,7 +91,7 @@ This project is licensed under the MIT License.
 
 👤 Author
 
-Your Name
+Teja Domada
 
 MCA Final Year Student
 Project: Smart Traffic Management System using AI
